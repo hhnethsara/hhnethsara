@@ -91,18 +91,6 @@ I enjoy learning through practical projects, solving technical problems, and exp
 
 ---
 
-## 👾 Contribution Graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhnethsara/hhnethsara/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hhnethsara/hhnethsara/pacman-output/pacman-contribution-graph.svg?game=pacman"/>
-    <img src="https://raw.githubusercontent.com/hhnethsara/hhnethsara/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%" alt="Pac-Man contribution graph"/>
-  </picture>
-</p>
-
----
-
 ## 🥋 Beyond Coding
 
 Taekwondo is an important part of my personal development. It reminds me that progress comes through consistent practice, patience, discipline, and perseverance.
