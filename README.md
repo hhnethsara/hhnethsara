@@ -68,57 +68,6 @@ I enjoy learning through practical projects, solving technical problems, and exp
 *My technology toolkit will continue to grow as I develop new skills and work on more projects.*
 
 ---
-
-## 🚀 Featured Projects
-
-Here are some areas of my software development journey. Add the actual repository links and update the descriptions to match each project's implementation.
-
-### 🐾 PetCare Application
-
-A Flutter application project focused on pet care and related services.
-
-- **Technologies:** Flutter, Dart
-- **Repository:** [View Project](https://github.com/hhnethsara)
-
-### 🎓 Smart Campus Attendance & LMS Support System
-
-An academic software engineering project focused on supporting campus attendance and learning management processes.
-
-- **Focus:** Requirements analysis, system design, and software development
-- **Repository:** [View Projects](https://github.com/hhnethsara?tab=repositories)
-
-### 🛒 Online Grocery System
-
-An academic project exploring an online grocery shopping system and its core functionality.
-
-- **Focus:** Application design and software engineering
-- **Repository:** [View Projects](https://github.com/hhnethsara?tab=repositories)
-
-### 🌐 Web Development Projects
-
-A collection of web development exercises and applications built while improving my frontend and backend development skills.
-
-- **Technologies explored:** HTML, CSS, Bootstrap, JavaScript, and PHP
-- **Repository:** [Explore Repositories](https://github.com/hhnethsara?tab=repositories)
-
----
-
-## 🔬 What I Want to Build Next
-
-I'm interested in developing projects that combine software engineering with data science and AI.
-
-| Project idea | Learning objective |
-|---|---|
-| 📊 Data Analysis Dashboard | Data cleaning, visualization, and insight generation |
-| 🎓 Student Performance Analytics | Exploratory data analysis using suitable datasets |
-| 🤖 Machine Learning Project | Learn model training, evaluation, and responsible AI |
-| 🌐 Data-Driven Web Application | Integrate analytical features into a practical application |
-| 🥋 Sports Analytics Dashboard | Explore training and performance data visualization |
-
-*These are future project ideas, not completed projects.*
-
----
-
 ## 🎯 My Goals
 
 - [ ] Strengthen software engineering fundamentals
@@ -129,6 +78,13 @@ I'm interested in developing projects that combine software engineering with dat
 - [ ] Contribute to open-source projects
 - [ ] Build a strong portfolio for internships and future opportunities
 - [ ] Explore postgraduate study and research in technology
+
+---
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/hhnethsara/hhnethsara/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/hhnethsara/hhnethsara/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ---
 
