@@ -1,173 +1,184 @@
- <!-- Replace YOUR_GITHUB_USERNAME and all other placeholders before publishing. -->
+ <!-- GitHub Profile README: Nethsara Vimukthi -->
+<!-- Replace repository links and remove any technology you have not used. -->
 
-<h1 align="center">Hi, I'm Nethsara Vimukthi Induwara 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Hi,%20I'm%20Nethsara%20Vimukthi%20👋&fontSize=30&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&color=0:002147,100:198754" width="100%" alt="Profile banner"/>
+</div>
 
 <h3 align="center">
   Computer Science Undergraduate | Software Developer | Aspiring Data Scientist
 </h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181D27?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <img src="https://img.shields.io/badge/Software_Engineering-198754?style=for-the-badge" alt="Software Engineering"/>
-  <img src="https://img.shields.io/badge/Data_Science-002147?style=for-the-badge" alt="Data Science"/>
-  <img src="https://img.shields.io/badge/AI_%26_ML-198754?style=for-the-badge" alt="AI and Machine Learning"/>
+  <i>Building today. Learning every day. Innovating for tomorrow.</i>
 </p>
 
 <p align="center">
-  <i>Learn continuously. Build consistently. Make an impact.</i>
+  <a href="https://github.com/hhnethsara">
+    <img src="https://img.shields.io/badge/GitHub-002147?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hhnethsara/">
+    <img src="https://img.shields.io/badge/LinkedIn-198754?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.youtube.com/@Nethsara_Vimukthi">
+    <img src="https://img.shields.io/badge/YouTube-002147?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science undergraduate at **NSBM Green University**, passionate about building software, solving problems, and exploring how technology can make a difference.
+Hello! I'm **Nethsara Vimukthi Induwara**, a Computer Science undergraduate at **NSBM Green University**, passionate about software development, data science, and emerging technologies.
 
-My journey combines software engineering with a growing interest in data science and artificial intelligence. I enjoy learning through practical projects, experimenting with new technologies, and continuously improving my technical skills.
+I enjoy learning through practical projects, solving technical problems, and exploring how intelligent systems can turn data into meaningful insights.
 
-- 🎓 Studying Computer Science at NSBM Green University
-- 💻 Exploring software development and application engineering
+- 🎓 Computer Science undergraduate at NSBM Green University
+- 💻 Interested in Software Engineering and application development
 - 📊 Working toward a long-term specialization in Data Science
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 🌱 Continuously developing my programming and problem-solving skills
-- 🥋 Taekwondo practitioner with an interest in discipline, teamwork, and personal growth
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🌱 Continuously improving my programming and problem-solving skills
+- 🔬 Interested in research, advanced studies, and international opportunities
+- 🥋 Taekwondo practitioner who values discipline, focus, and perseverance
 
-**My vision:** To become a skilled software professional, specialize in Data Science and AI, and eventually contribute to meaningful research and innovative technology.
+**My vision:** To become a skilled software professional, specialize in Data Science and AI, and contribute to innovative technology and meaningful research.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### Languages and Development
+### Programming Languages
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img src="https://img.shields.io/badge/Python-002147?style=flat-square&logo=python&logoColor=FFD43B" alt="Python"/>
-  <img src="https://img.shields.io/badge/Dart-002147?style=flat-square&logo=dart&logoColor=00D2FF" alt="Dart"/>
-  <img src="https://img.shields.io/badge/HTML5-198754?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-198754?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Bootstrap-002147?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Flutter-198754?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,php" alt="Programming languages"/>
 </p>
 
-### Tools
+### Frameworks & Libraries
 
-<p>
-  <img src="https://img.shields.io/badge/Git-002147?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-198754?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-002147?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs" alt="Frameworks and libraries"/>
 </p>
 
-*This list reflects technologies I have worked with. I am continuing to develop my skills and expand into data analysis, machine learning, and AI.*
+### Databases & Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,visualstudio,idea,apache" alt="Development tools and database"/>
+</p>
+
+*My technology toolkit will continue to grow as I develop new skills and work on more projects.*
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-Here are some of the projects and development areas I have worked on or explored during my learning journey.
+Here are some areas of my software development journey. Add the actual repository links and update the descriptions to match each project's implementation.
 
 ### 🐾 PetCare Application
 
-A Flutter-based application project focused on pet care.
+A Flutter application project focused on pet care and related services.
 
 - **Technologies:** Flutter, Dart
-- **Repository:** [View Project](YOUR_PETCARE_REPOSITORY_URL)
+- **Repository:** [View Project](https://github.com/hhnethsara)
 
-### 🌐 Web Development Practice
+### 🎓 Smart Campus Attendance & LMS Support System
 
-Web development exercises and interfaces, including forms and responsive layouts.
+An academic software engineering project focused on supporting campus attendance and learning management processes.
 
-- **Technologies:** HTML, CSS, Bootstrap
-- **Repository:** [View Project](YOUR_WEB_PROJECT_REPOSITORY_URL)
+- **Focus:** Requirements analysis, system design, and software development
+- **Repository:** [View Projects](https://github.com/hhnethsara?tab=repositories)
 
-### 🎓 Academic Software Engineering Projects
+### 🛒 Online Grocery System
 
-Academic project work involving software design, requirements, and development concepts.
+An academic project exploring an online grocery shopping system and its core functionality.
 
-Areas explored include:
+- **Focus:** Application design and software engineering
+- **Repository:** [View Projects](https://github.com/hhnethsara?tab=repositories)
 
-- Smart Campus Attendance and LMS Support System
-- Online Grocery System
-- Internship Portal
+### 🌐 Web Development Projects
 
-- **Repository:** [View Academic Projects](YOUR_ACADEMIC_PROJECTS_REPOSITORY_URL)
+A collection of web development exercises and applications built while improving my frontend and backend development skills.
 
-*Project descriptions and links should reflect the actual implementation and documentation available in each repository.*
+- **Technologies explored:** HTML, CSS, Bootstrap, JavaScript, and PHP
+- **Repository:** [Explore Repositories](https://github.com/hhnethsara?tab=repositories)
 
 ---
 
-## 🔬 Future Projects I'm Interested In
+## 🔬 What I Want to Build Next
 
-I'm working toward building a stronger portfolio that connects software engineering with data science and AI.
+I'm interested in developing projects that combine software engineering with data science and AI.
 
-| Project idea | What I want to explore |
+| Project idea | Learning objective |
 |---|---|
-| 📊 Data Analysis Dashboard | Data cleaning, visualization, and extracting insights |
-| 🤖 Student Performance Analysis | Exploratory data analysis and responsible use of educational data |
-| 🏥 Predictive Analytics Project | Machine learning fundamentals using a suitable public dataset |
-| 🌐 Data-Driven Web Application | Integrating a data analysis feature into a software application |
-| 🥋 Sports Performance Analytics | Exploring training and performance data through visualizations |
+| 📊 Data Analysis Dashboard | Data cleaning, visualization, and insight generation |
+| 🎓 Student Performance Analytics | Exploratory data analysis using suitable datasets |
+| 🤖 Machine Learning Project | Learn model training, evaluation, and responsible AI |
+| 🌐 Data-Driven Web Application | Integrate analytical features into a practical application |
+| 🥋 Sports Analytics Dashboard | Explore training and performance data visualization |
 
-These are future learning goals, not claims of completed projects. I plan to develop them progressively as my skills improve.
+*These are future project ideas, not completed projects.*
 
 ---
 
 ## 🎯 My Goals
 
-- Strengthen my software engineering fundamentals.
-- Improve my Python programming and problem-solving abilities.
-- Build practical projects with clean, maintainable code.
-- Learn data analysis, statistics, and data visualization.
-- Progress into machine learning and artificial intelligence.
-- Contribute to open-source projects and collaborate with other developers.
-- Build a portfolio that demonstrates real skills and continuous improvement.
-- Explore postgraduate study and research opportunities in technology.
+- [ ] Strengthen software engineering fundamentals
+- [ ] Improve Python and problem-solving skills
+- [ ] Build well-documented, practical software projects
+- [ ] Develop skills in statistics and data visualization
+- [ ] Explore machine learning and artificial intelligence
+- [ ] Contribute to open-source projects
+- [ ] Build a strong portfolio for internships and future opportunities
+- [ ] Explore postgraduate study and research in technology
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1421&title_color=22C55E&icon_color=22C55E&text_color=E5E7EB&include_all_commits=true" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1421&title_color=22C55E&text_color=E5E7EB" alt="Most used programming languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1421&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub contribution streak"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hhnethsara&show_icons=true&hide_border=true&bg_color=0D1421&title_color=22C55E&icon_color=22C55E&text_color=E5E7EB&include_all_commits=true" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhnethsara&layout=compact&hide_border=true&bg_color=0D1421&title_color=22C55E&text_color=E5E7EB&langs_count=6" alt="Most used programming languages"/>
 </p>
 
 ---
 
-## 🥋 Beyond Technology
+## 👾 Contribution Graph
 
-Taekwondo is another important part of my personal development. It has helped me appreciate the value of discipline, persistence, focus, and teamwork.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhnethsara/hhnethsara/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hhnethsara/hhnethsara/pacman-output/pacman-contribution-graph.svg?game=pacman"/>
+    <img src="https://raw.githubusercontent.com/hhnethsara/hhnethsara/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%" alt="Pac-Man contribution graph"/>
+  </picture>
+</p>
 
-I believe these qualities are just as important in software development as they are in training: keep learning, stay consistent, and improve through practice.
+---
+
+## 🥋 Beyond Coding
+
+Taekwondo is an important part of my personal development. It reminds me that progress comes through consistent practice, patience, discipline, and perseverance.
+
+I aim to bring the same mindset into programming: learn from mistakes, solve problems step by step, and keep improving.
 
 ---
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/hhnethsara">
     <img src="https://img.shields.io/badge/GitHub-002147?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="YOUR_LINKEDIN_PROFILE_URL">
+  <a href="https://www.linkedin.com/in/hhnethsara/">
     <img src="https://img.shields.io/badge/LinkedIn-198754?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-002147?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <a href="https://www.youtube.com/@Nethsara_Vimukthi">
+    <img src="https://img.shields.io/badge/YouTube-002147?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
 
 <p align="center">
-  📧 Email: YOUR_PUBLIC_EMAIL
+  <i>"Learn continuously. Build consistently. Make an impact."</i>
 </p>
 
-<p align="center">
-  <i>"The goal is not just to write code, but to build things that matter."</i>
-</p>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:198754,100:002147" width="100%" alt="Footer banner"/>
+</div>
