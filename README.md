@@ -27,22 +27,23 @@
 
 ---
 
+
 ## 👨‍💻 About Me
 
-Hello! I'm **Nethsara Vimukthi Induwara**, a Computer Science undergraduate at **NSBM Green University**, passionate about software development, data science, and emerging technologies.
+Hello! I'm **Nethsara Vimukthi Induwara**, a Computer Science undergraduate at **NSBM Green University**, aspiring to become a skilled Java Developer with a strong focus on Backend Engineering.
 
-I enjoy learning through practical projects, solving technical problems, and exploring how intelligent systems can turn data into meaningful insights.
+I enjoy building practical software solutions, exploring new technologies, solving technical challenges, and continuously improving my development skills.
 
-- 🎓 Computer Science undergraduate at NSBM Green University
-- 💻 Interested in Software Engineering and application development
+- 🎓 Pursuing a BSc (Hons) in Computer Science at NSBM Green University
+- ☕ Interested in Java Development and Backend Engineering
+- 💻 Exploring Full-Stack Development and application architecture
+- 🗄️ Interested in database design, REST APIs, and software engineering
 - 📊 Working toward a long-term specialization in Data Science
 - 🤖 Exploring Artificial Intelligence and Machine Learning
-- 🌱 Continuously improving my programming and problem-solving skills
-- 🔬 Interested in research, advanced studies, and international opportunities
-- 🥋 Taekwondo practitioner who values discipline, focus, and perseverance
+- 🔬 Passionate about continuous learning, research, and innovation
+- 🥋 Taekwondo practitioner and student leader who values discipline, teamwork, and perseverance
 
-**My vision:** To become a skilled software professional, specialize in Data Science and AI, and contribute to innovative technology and meaningful research.
-
+**My Vision:** To grow into a well-rounded software engineer, specialize in Data Science and AI, and contribute to building innovative technologies that create meaningful impact.
 ---
 
 ## 🛠️ Technologies & Tools
