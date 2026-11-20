@@ -6,7 +6,7 @@
 </div>
 
 <h3 align="center">
-  Computer Science Undergraduate | Software Developer | Java Developer 
+  Computer Science Undergraduate | Java Developer | Backend & Full-Stack Development
 </h3>
 
 <p align="center">
