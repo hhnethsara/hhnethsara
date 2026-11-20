@@ -44,34 +44,45 @@ I enjoy building practical software solutions, exploring new technologies, solvi
 - 🥋 Taekwondo practitioner and student leader who values discipline, teamwork, and perseverance
 
 **My Vision:** To grow into a well-rounded software engineer, specialize in Data Science and AI, and contribute to building innovative technologies that create meaningful impact.
+
 ---
+
+<!-- ================= TECHNOLOGIES ================= -->
 
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,php" alt="Programming languages"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,cs,dart" />
 </p>
 
 ### Frameworks & Libraries
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs" alt="Frameworks and libraries"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,react,flutter,nodejs,dotnet" />
 </p>
 
-### Databases & Development Tools
+### Databases
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,visualstudio,idea,apache" alt="Development tools and database"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql" />
 </p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea" />
+</p>
+
+---
 
 *My technology toolkit will continue to grow as I develop new skills and work on more projects.*
 
 ---
 ## 🎯 My Goals
 
-- [ ] Strengthen software engineering fundamentals
+- [x] Strengthen software engineering fundamentals
 - [ ] Improve Python and problem-solving skills
 - [ ] Build well-documented, practical software projects
 - [ ] Develop skills in statistics and data visualization
